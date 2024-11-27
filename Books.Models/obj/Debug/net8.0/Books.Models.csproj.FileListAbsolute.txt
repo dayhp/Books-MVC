@@ -1,0 +1,12 @@
+D:\HOC-TAP\Dot-Net\Books\Books.Models\bin\Debug\net8.0\Books.Models.deps.json
+D:\HOC-TAP\Dot-Net\Books\Books.Models\bin\Debug\net8.0\Books.Models.dll
+D:\HOC-TAP\Dot-Net\Books\Books.Models\bin\Debug\net8.0\Books.Models.pdb
+D:\HOC-TAP\Dot-Net\Books\Books.Models\obj\Debug\net8.0\Books.Models.csproj.AssemblyReference.cache
+D:\HOC-TAP\Dot-Net\Books\Books.Models\obj\Debug\net8.0\Books.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOC-TAP\Dot-Net\Books\Books.Models\obj\Debug\net8.0\Books.Models.AssemblyInfoInputs.cache
+D:\HOC-TAP\Dot-Net\Books\Books.Models\obj\Debug\net8.0\Books.Models.AssemblyInfo.cs
+D:\HOC-TAP\Dot-Net\Books\Books.Models\obj\Debug\net8.0\Books.Models.csproj.CoreCompileInputs.cache
+D:\HOC-TAP\Dot-Net\Books\Books.Models\obj\Debug\net8.0\Books.Models.dll
+D:\HOC-TAP\Dot-Net\Books\Books.Models\obj\Debug\net8.0\refint\Books.Models.dll
+D:\HOC-TAP\Dot-Net\Books\Books.Models\obj\Debug\net8.0\Books.Models.pdb
+D:\HOC-TAP\Dot-Net\Books\Books.Models\obj\Debug\net8.0\ref\Books.Models.dll

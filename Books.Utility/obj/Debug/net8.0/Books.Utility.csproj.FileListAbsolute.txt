@@ -1,0 +1,11 @@
+D:\HOC-TAP\Dot-Net\Books\Books.Utility\bin\Debug\net8.0\Books.Utility.deps.json
+D:\HOC-TAP\Dot-Net\Books\Books.Utility\bin\Debug\net8.0\Books.Utility.dll
+D:\HOC-TAP\Dot-Net\Books\Books.Utility\bin\Debug\net8.0\Books.Utility.pdb
+D:\HOC-TAP\Dot-Net\Books\Books.Utility\obj\Debug\net8.0\Books.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\HOC-TAP\Dot-Net\Books\Books.Utility\obj\Debug\net8.0\Books.Utility.AssemblyInfoInputs.cache
+D:\HOC-TAP\Dot-Net\Books\Books.Utility\obj\Debug\net8.0\Books.Utility.AssemblyInfo.cs
+D:\HOC-TAP\Dot-Net\Books\Books.Utility\obj\Debug\net8.0\Books.Utility.csproj.CoreCompileInputs.cache
+D:\HOC-TAP\Dot-Net\Books\Books.Utility\obj\Debug\net8.0\Books.Utility.dll
+D:\HOC-TAP\Dot-Net\Books\Books.Utility\obj\Debug\net8.0\refint\Books.Utility.dll
+D:\HOC-TAP\Dot-Net\Books\Books.Utility\obj\Debug\net8.0\Books.Utility.pdb
+D:\HOC-TAP\Dot-Net\Books\Books.Utility\obj\Debug\net8.0\ref\Books.Utility.dll
